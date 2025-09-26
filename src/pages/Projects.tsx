@@ -23,7 +23,7 @@ function Projects() {
       period: "2024",
       category: "UI/UX Design",
       type: "design",
-      screenshot: "/screenshots/safeher.png"
+      screenshot: "/screenshots/Saferher.png"
     },
     { 
       title: "DriveBot - Smart car management system", 
@@ -53,7 +53,7 @@ function Projects() {
       period: "Ongoing",
       category: "Fullstack",
       type: "development",
-      screenshot: "/screenshots/bushub.png"
+      screenshot: "screenshots/BusHubLK.png"
     },
     { 
       title: "EduBurd - Learning management system", 
@@ -63,7 +63,7 @@ function Projects() {
       period: "2024",
       category: "Fullstack",
       type: "development",
-      screenshot: "/screenshots/eduburd.png"
+      screenshot: "screenshots/EduBurd.png"
     },
     { 
       title: "CarePaws - Pet care management system", 
@@ -73,7 +73,7 @@ function Projects() {
       period: "2023",
       category: "Fullstack", 
       type: "development",
-      screenshot: "/screenshots/carepaws.png"
+      screenshot: "screenshots/CarePaws.png"
     },
     { 
       title: "Medicure - Doctor appointment system", 
@@ -83,7 +83,7 @@ function Projects() {
       period: "Ongoing",
       category: "Fullstack",
       type: "development",
-      screenshot: "/screenshots/medicure.png"
+      screenshot: "screenshots/Medicure.png"
     },
     { 
       title: "SwiftLogistics - Logistics platform", 
@@ -93,7 +93,7 @@ function Projects() {
       period: "2025",
       category: "Fullstack",
       type: "development",
-      screenshot: "/screenshots/swiftlogistics.png"
+      screenshot: "screenshots/SwiftLogistics.png"
     }
   ];
 

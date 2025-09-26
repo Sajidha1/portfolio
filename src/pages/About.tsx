@@ -161,7 +161,7 @@ export default function About() {
                         <div className="bg-primary text-white p-3 rounded-circle me-3">
                           <FaLaptopCode size={20} />
                         </div>
-                        <h5 className="card-title fw-bold mb-0 text-dark">Skills & Competencies</h5>
+                        <h5 className="card-title fw-bold mb-0 text-dark">Skills and Competencies</h5>
                       </div>
 
                       <div className="d-flex flex-column gap-3">

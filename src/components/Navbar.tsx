@@ -35,7 +35,7 @@ export default function Navbar() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
             {navItems.map((item) => {
-              const isActive = location.pathname === item.path;
+              const isActive = location.hash === item.path;
 
               return (
                 <li className="nav-item" key={item.path}>

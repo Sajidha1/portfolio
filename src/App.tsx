@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom"; // remove HashRouter import
+import { Routes, Route } from "react-router-dom"; // no HashRouter here
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
